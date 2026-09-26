@@ -1,0 +1,6 @@
+{
+  "name": "Firebase Auth & Registration Hub",
+  "description": "Production-ready Firebase user authentication and registration system with clean developer code snippets and real-time session management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
